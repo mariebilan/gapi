@@ -1,0 +1,44 @@
+html, body{
+    height: 100%;
+}
+
+body {
+    display: grid;
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+  }
+
+* {
+    box-sizing: border-box;
+}
+
+#navi {
+    background-color: #646B77;
+    block-size: 80px;
+}
+
+h4 {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #D7D8DB;
+    padding: 23px;
+}
+
+h3 {
+    font-family: Tahoma;
+    font-size: 38px;
+}
+
+p {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#searchBox {
+    font-family: 'Roboto Condensed', sans-serif;
+    border: none;
+    text-align: center;
+    border-bottom: 4px solid #2F3033; 
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}
