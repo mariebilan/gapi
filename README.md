@@ -3,16 +3,20 @@ The app to find github accounts with ability to visit github page, view some use
 
 ![](img/gapi1.png)
 
-About the Project
+**About the Project**
+
 The project was created to review Github accounts.
 
-Project Goals
+**Project Goals**
+
 The main purpose is to display information about a Github user.
 
-Usage
+**Usage**
+
 It is useful for finding specific people and their experiences on the Github platform.
 
-Builded with
+**Builded with**
+
 Vanilla JavaScript
 jQuery
 GitHub API (client_id and client_Secret: https://github.com/settings/applications/new, 
